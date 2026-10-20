@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarkFlow</string>
+    <string name="title_editor">Editor</string>
+    <string name="title_preview">Preview</string>
+    <string name="action_open">Open File</string>
+    <string name="action_save">Save</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search</string>
+    <string name="action_export">Export HTML</string>
+    <string name="action_recent">Recent Files</string>
+    <string name="action_scratchpad">Scratchpad</string>
+</resources>

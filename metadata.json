@@ -1,0 +1,6 @@
+{
+  "name": "MarkFlow",
+  "description": "A sleek Markdown and text editor and viewer with instant preview, Open-With support, formatting toolbar, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
